@@ -7,5 +7,6 @@ public class MyClass {
 		System.out.println("This Git test!");
 		MyHello myHello = new MyHello();
 		myHello.sayHello();
+		System.out.println("v2.0");
 	}
 }
